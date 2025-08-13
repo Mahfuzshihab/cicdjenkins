@@ -1,6 +1,6 @@
 # cicdjenkins
 
-[![Build Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)](https://github.com/Mahfuzshihab/cicdjenkins/actions/workflows/main.yml)
+[![CI Pipeline](https://github.com/Mahfuzshihab/cicdjenkins/actions/workflows/CI%20Pipeline/badge.svg)](https://github.com/Mahfuzshihab/cicdjenkins/actions/workflows/CI%20Pipeline)
 
 A CI/CD Jenkins pipeline repository to automate build, test, and deployment workflows.
 
