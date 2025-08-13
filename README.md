@@ -1,4 +1,4 @@
-# cicdjenkins
+# cicd
 
 [![Build Status](https://github.com/Mahfuzshihab/cicdjenkins/actions/workflows/whatever.yml/badge.svg)](https://github.com/Mahfuzshihab/cicdjenkins/actions/workflows/whatever.yml)
 
