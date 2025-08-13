@@ -1,24 +1,12 @@
-# null_or_empty
+# cicdjenkins
 
-[![Node CI](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml/badge.svg)](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml)
+[![Build Status](https://github.com/Mahfuzshihab/cicdjenkins/actions/workflows/main.yml/badge.svg)](https://github.com/Mahfuzshihab/cicdjenkins/actions/workflows/main.yml)
 
-A simple Node.js package that checks, if a given string is null or empty.
+A CI/CD Jenkins pipeline repository to automate build, test, and deployment workflows.
 
 ## Usage
 
-First, install the package using npm:
-
-    npm install @skalwar/null_or_empty --save
-
-Then, require the package and use it like so:
-
-    var isNullOrEmpty = require('@skalwar/null_or_empty');
-
-    console.log(isNullOrEmpty("")); // true
-    console.log(isNullOrEmpty(null)); // true
-    console.log(isNullOrEmpty(undefined)); // true
-
-    console.log(isNullOrEmpty("Hello World")); // false
+This repository contains Jenkins pipeline scripts to automate your CI/CD workflows. You can customize the Jenkinsfile to suit your project needs.
 
 ## License
 
